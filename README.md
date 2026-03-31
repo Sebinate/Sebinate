@@ -48,8 +48,8 @@ A Streamlit-powered next-word prediction app built on an LSTM model, demonstrati
 
 <img align=left width=100% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sebinate&theme=github_dark"/>
 <img width="100%" height="20" src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=20"/>
-<img align=left width=48% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sebinate&theme=github_dark"/>
-<img align=right width=48% src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sebinate&theme=github_dark"/>
+<img align=left width=47% src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sebinate&theme=github_dark"/>
+<img align=right width=47% src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sebinate&theme=github_dark"/>
 <img width="100%" height="20" src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=20"/>
 
 ---
