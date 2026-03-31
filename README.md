@@ -46,7 +46,7 @@ A Streamlit-powered next-word prediction app built on an LSTM model, demonstrati
 
 ## GitHub Stats
 
-![Sebinate's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebinate&show_icons=true&hide_border=true&theme=default)
+![Sebinate's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={Sebinate}&theme={github_dark})
 
 ---
 
