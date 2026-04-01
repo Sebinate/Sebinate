@@ -57,5 +57,5 @@ A Streamlit-powered next-word prediction app built on an LSTM model, demonstrati
 
 ## Get in Touch
 
-- LinkedIn: [linkedin.com/in/sebsampao](www.linkedin.com/in/sebsampao)
+- LinkedIn: [linkedin.com/in/sebsampao](https://www.linkedin.com/in/sebsampao)
 - Email: [sebastiansampao@gmail.com](mailto:sebastiansampao@email.com)
